@@ -1,0 +1,19 @@
+<-------------- INFO -------------->
+THIS WEBSITE WAS CREATED BY COOP STUDENT MATHEOS AMANUEL
+
+---------------------------------------------------------------------------
+
+Login Credentials to the Admin for the Site:
+    Username : AlectraAdmin
+    Password : Alectra123@
+
+*The login credentiuals can be changed in the login.php file*
+
+Credentials can be changed in the login.php file
+
+---------------------------------------------------------------------------
+
+To insure that the site has the proper connection with the data base,
+please import the file emp.spl file fond in the Database folder.
+Insure that the Connect.php file is configured to poin to the proper server that the emp.sql file is located in.
+
